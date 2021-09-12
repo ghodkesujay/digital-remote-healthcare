@@ -1,0 +1,12 @@
+Aug 20, 2021 7:00:09 PM edu.neu.csye6200.oodfinalproject.App main
+INFO: Starting application
+Aug 20, 2021 7:00:09 PM edu.neu.csye6200.oodfinalproject.App start
+INFO: Setting up the app stage
+Aug 20, 2021 7:00:09 PM edu.neu.csye6200.oodfinalproject.util.DB4OUtil retrieveSystem
+INFO: Trying to retrieve system from db
+Aug 20, 2021 7:00:10 PM edu.neu.csye6200.oodfinalproject.util.DB4OUtil retrieveSystem
+INFO: Successfully retrieved system from db
+Aug 20, 2021 7:00:11 PM edu.neu.csye6200.oodfinalproject.ui.model.Context replaceSceneContent
+INFO: Loaded Scene to stage: /fxml/splash.fxml
+Aug 20, 2021 7:00:17 PM edu.neu.csye6200.oodfinalproject.ui.model.Context replaceSceneContent
+INFO: Loaded Scene to stage: /fxml/login/login.fxml
